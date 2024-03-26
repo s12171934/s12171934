@@ -1,6 +1,6 @@
 ## PORTFOLIO
 
-### 추후에 링크 추가 예정
+### http://www.junhyoung.info
 
 ## TECH SKILLS
 ### Back End
