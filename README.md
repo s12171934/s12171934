@@ -1,5 +1,6 @@
 ## PORTFOLIO
-![background](https://github.com/s12171934/s12171934/assets/148848550/6bd9338d-6b0a-460f-b82e-bce2fa63f368)
+![readmehome](https://github.com/s12171934/s12171934/assets/148848550/e4e84473-0073-4c1f-9309-e9967f60c973)
+
 ### http://www.junhyoung.info
 
 ## TECH SKILLS
