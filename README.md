@@ -1,5 +1,6 @@
 ## PORTFOLIO
 ![readmehome](https://github.com/s12171934/s12171934/assets/148848550/e4e84473-0073-4c1f-9309-e9967f60c973)
+www.junhyoung.info
 
 ## TECH SKILLS
 ### Back End
